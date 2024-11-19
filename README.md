@@ -1,2 +1,1 @@
-# Primero
-Primer Repositorio de Henry PrepCourse mod2
+Este proyecto es una prueba de como crear un repositorio y clonar desde github a mi escritorio para trabajarlo
